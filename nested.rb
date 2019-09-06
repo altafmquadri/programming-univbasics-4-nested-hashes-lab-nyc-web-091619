@@ -16,7 +16,11 @@ def hopper
         }
       
      }
+<<<<<<< HEAD
   return programmer_hash[:grace_hopper]
+=======
+  return hopper[0]
+>>>>>>> 9e8f986993a2149f5cb9f5d11b9c4c19b34f8ac1
 
 end
 
